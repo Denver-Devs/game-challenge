@@ -35,5 +35,5 @@ _Good luck, have fun!_
 
 # Solutions
 
-_no solutions yet_
+[Racr by Drew Dahlman](http://drewdahlman.github.io/racr/) [Repo](https://github.com/DrewDahlman/racr)
 
